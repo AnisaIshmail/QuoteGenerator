@@ -107,7 +107,7 @@ body {
 .quote-box .buttons .button:hover {
   opacity: 0.9;
 }
-.quote-box .buttons .button#tweet-quote {
+.quote-box .buttons .button#tweetQuote {
   float: left;
   padding: 0px;
   padding-top: 8px;
